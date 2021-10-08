@@ -27,34 +27,34 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "first song",
-     path: "1.mp3",
-     img: "img1.jpg",
-     singer: "1"
+     name: "Something Just Like This - Don Diablo Remix",
+     path: "music/song1.mp3",
+     img: "img/img1.jpg",
+     singer: "The Chainsmokers, Coldplay, Don Diablo"
    },
    {
-     name: "second song",
-     path: "2.mp3",
-     img: "img2.jpg",
-     singer: "2"
+     name: "On My Mind",
+     path: "music/song2.mp3",
+     img: "img/img2.jpg",
+     singer: "Don Diablo"
    },
    {
-     name: "third song",
-     path: "3.mp3",
-     img: "img3.jpg",
-     singer: "3"
+     name: "Save A Little Love",
+     path: "music/song3.mp3",
+     img: "img/img3.jpg",
+     singer: "Don Diablo"
    },
    {
-     name: "fourth song",
-     path: "4.mp3",
-     img: "img4.jpg",
-     singer: "4"
+     name: "Children Of A Miracle",
+     path: "music/song4.mp3",
+     img: "img/img4.jpg",
+     singer: "Don Diablo & Marnik"
    },
    {
-     name: "fifth song",
-     path: "5.mp3",
-     img: "img5.jpg",
-     singer: "5"
+     name: "Ocean Drive",
+     path: "music/song5.mp3",
+     img: "img/img5.jpg",
+     singer: "Duke Dumont"
    }
 ];
 
